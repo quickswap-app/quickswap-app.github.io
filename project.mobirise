@@ -57,8 +57,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Quickswap™ | Home Official Website",
+        "meta_descr": "QuickSwap is a next-gen DEX and DeFi ecosystem. Trade at lightning-fast speeds with near-zero gas fees. Access perps with up to 50x leverage.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
